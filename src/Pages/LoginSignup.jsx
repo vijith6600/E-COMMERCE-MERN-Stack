@@ -1,7 +1,7 @@
 import React from 'react'
 import './CSS/LoginSignup.css'
 
-function LoginSignup() {
+const LoginSignup =() => {
   return (
     <div className='loginsignup'>
         <div className="loginsignup-container">

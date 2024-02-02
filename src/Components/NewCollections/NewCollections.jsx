@@ -3,7 +3,7 @@ import './NewCollection.css'
 import new_collection from '../Assets/new_collections'
 import Item from '../Items/Item'
 
-function NewCollections() {
+const NewCollections=()=> {
   return (
     <div className='new-collection'>
         <h1>NEW COLLECTION</h1>

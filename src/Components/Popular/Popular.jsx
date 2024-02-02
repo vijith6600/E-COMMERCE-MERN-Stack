@@ -3,7 +3,7 @@ import './Popular.css'
 import data_product from '../Assets/data'
 import Item from '../Items/Item'
 
-function Popular() {
+const Popular=()=> {
   return (
     <div className='popular'>
         <h1>POPULAR IN WOMEN</h1>

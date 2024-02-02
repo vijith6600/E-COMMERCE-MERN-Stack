@@ -1,7 +1,7 @@
 import React from 'react'
 import './NewsLetter.css'
 
-function NewsLetter() {
+const NewsLetter=()=> {
   return (
     <div className='newsletter'>
         <h1>Get Exclusive offers on your Email</h1>
@@ -13,5 +13,6 @@ function NewsLetter() {
     </div>
   )
 }
+
 
 export default NewsLetter
