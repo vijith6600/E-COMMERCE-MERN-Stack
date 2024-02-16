@@ -1,6 +1,9 @@
 .item{
-    width: 350px;
+    width: 280px;
+}
 
+.item img{
+    width: 100%;
 }
 
 .item p{
@@ -12,14 +15,14 @@
     gap: 20px;
 }
 
-.Item-price-new{
+.item-price-new{
     color:#374151;
     font-size: 18px;
     font-weight: 600;
 
 }
 
-.Item-price-old{
+.item-price-old{
     color:#8c8c8c;
     font-size: 18px;
     font-weight: 500;

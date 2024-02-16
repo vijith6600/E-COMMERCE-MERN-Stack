@@ -12,7 +12,7 @@
 }
 
 .popular hr{
-    width: 200px;
+    width: 300px;
     height: 6px;
     border-radius: 10px;
     background: #252525;
@@ -20,5 +20,6 @@
 .popular-item{
     margin-top: 50px;
     display: flex;
+    justify-content: center;
     gap: 30px;
 }
