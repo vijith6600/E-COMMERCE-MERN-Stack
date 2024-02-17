@@ -1,22 +1,21 @@
 .newsletter{
     width :65%;
-    height: 120vh;
+    height:60vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 500px;
     justify-content: center;
-
     margin: auto;
     padding: 0px 140px;
-    margin-bottom: 150px;
-    background: linear-gradient(180deg, pink 0%, gray 60%);
+    margin-bottom: 60px;
+    margin-top: 80px;
+    background: linear-gradient(180deg, rgb(255, 255, 255) 0%, gray 60%);
     gap: 30px;
 }
 
 .newsletter h1{
     color: black;
-    font-size: 55px;
+    font-size: 40px;
     font-weight:600;
 
 }
@@ -27,19 +26,16 @@ font-size: 20px;
 
 .newsletter div{
 display: flex;
-flex-direction: column;
-align-items: center;
 justify-content: space-between;
 background: white;
-width: 730px;
+width: 780px;
 height: 70px;
-margin-top: 300px;
 border-radius: 80px;
 border: 1px solid #e3e3e3;
 }
 
 .newsletter input{
-    width:500px;
+    width: 500px;
     margin-left: 30px;
     border: none;
     outline: none;
@@ -49,7 +45,7 @@ border: 1px solid #e3e3e3;
 }
 
 .newsletter div button{
-    width: 210px;
+    width: 250px;
     height:70px;
     border-radius: 80px;
     background: black;

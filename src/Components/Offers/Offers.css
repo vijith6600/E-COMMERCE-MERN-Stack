@@ -1,11 +1,11 @@
 .offers{
     width: 65%;
-    height: 60vh;
+    height: 100vh;
     display: flex;
     margin: auto;
     padding: 0px 150px;
     margin-top: 150px;
-    margin-bottom: 155px;
+    margin-bottom: 40px;
     background:linear-gradient(180deg, rgb(161, 161, 161), white 60%);
 }
 .offers-left{
@@ -50,5 +50,5 @@
 }
 
 .offers-right img{
-    width: 100%;
+    width: 90%;
 }
